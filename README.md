@@ -1,16 +1,7 @@
 # smart_home_page_ui
 
-A new Flutter project.
+A prototype for an app, assigned me to designed home page
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Smart Home Mobile App](https://user-images.githubusercontent.com/55682574/146731502-9f57b365-6375-4d16-9344-2bc471386c7d.png)
